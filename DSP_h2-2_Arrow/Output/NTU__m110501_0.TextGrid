@@ -1,0 +1,78 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.4705 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "RDIF" 
+        xmin = 0 
+        xmax = 2.4705 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.004918553318716053 
+            text = "sli" 
+        intervals [2]:
+            xmin = 0.004918553318716053 
+            xmax = 0.029951938651967536 
+            text = "b_i" 
+        intervals [3]:
+            xmin = 0.029951938651967536 
+            xmax = 0.16990873397288042 
+            text = "ian" 
+        intervals [4]:
+            xmin = 0.16990873397288042 
+            xmax = 0.330797102501157 
+            text = "ch_a" 
+        intervals [5]:
+            xmin = 0.330797102501157 
+            xmax = 0.5500552705342805 
+            text = "au" 
+        intervals [6]:
+            xmin = 0.5500552705342805 
+            xmax = 0.6901221046969322 
+            text = "ts_a" 
+        intervals [7]:
+            xmin = 0.6901221046969322 
+            xmax = 0.9199781259680042 
+            text = "ai" 
+        intervals [8]:
+            xmin = 0.9199781259680042 
+            xmax = 1.0200825288747575 
+            text = "b_i" 
+        intervals [9]:
+            xmin = 1.0200825288747575 
+            xmax = 1.2001079397290504 
+            text = "ian" 
+        intervals [10]:
+            xmin = 1.2001079397290504 
+            xmax = 1.399867514593726 
+            text = "h_e" 
+        intervals [11]:
+            xmin = 1.399867514593726 
+            xmax = 1.5989081170766646 
+            text = "eng" 
+        intervals [12]:
+            xmin = 1.5989081170766646 
+            xmax = 1.6907314766023913 
+            text = "j_e" 
+        intervals [13]:
+            xmin = 1.6907314766023913 
+            xmax = 1.8003741248107064 
+            text = "e" 
+        intervals [14]:
+            xmin = 1.8003741248107064 
+            xmax = 1.970135853285604 
+            text = "g_e" 
+        intervals [15]:
+            xmin = 1.970135853285604 
+            xmax = 2.336258484870042 
+            text = "e" 
+        intervals [16]:
+            xmin = 2.336258484870042 
+            xmax = 2.4705 
+            text = "sli" 

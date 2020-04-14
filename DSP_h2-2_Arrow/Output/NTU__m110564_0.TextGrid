@@ -1,0 +1,70 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.183 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "RCDIF" 
+        xmin = 0 
+        xmax = 2.183 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.004879902810366894 
+            text = "sli" 
+        intervals [2]:
+            xmin = 0.004879902810366894 
+            xmax = 0.12001609078366904 
+            text = "n_i" 
+        intervals [3]:
+            xmin = 0.12001609078366904 
+            xmax = 0.2097881233211586 
+            text = "i" 
+        intervals [4]:
+            xmin = 0.2097881233211586 
+            xmax = 0.34008095927439125 
+            text = "tz_a" 
+        intervals [5]:
+            xmin = 0.34008095927439125 
+            xmax = 0.5598578692239006 
+            text = "ai" 
+        intervals [6]:
+            xmin = 0.5598578692239006 
+            xmax = 0.6600024607617277 
+            text = "t_i" 
+        intervals [7]:
+            xmin = 0.6600024607617277 
+            xmax = 0.9100237167329522 
+            text = "iau" 
+        intervals [8]:
+            xmin = 0.9100237167329522 
+            xmax = 0.9998567565994009 
+            text = "b_o" 
+        intervals [9]:
+            xmin = 0.9998567565994009 
+            xmax = 1.2300267815309847 
+            text = "o" 
+        intervals [10]:
+            xmin = 1.2300267815309847 
+            xmax = 1.3900887627063547 
+            text = "sh_empt" 
+        intervals [11]:
+            xmin = 1.3900887627063547 
+            xmax = 1.5500121503481106 
+            text = "empt1" 
+        intervals [12]:
+            xmin = 1.5500121503481106 
+            xmax = 1.699993508992627 
+            text = "f_ee" 
+        intervals [13]:
+            xmin = 1.699993508992627 
+            xmax = 2.0483147633627414 
+            text = "ei" 
+        intervals [14]:
+            xmin = 2.0483147633627414 
+            xmax = 2.183 
+            text = "sli" 
